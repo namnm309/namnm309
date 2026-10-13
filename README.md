@@ -7,7 +7,6 @@
 I build REST APIs, design relational databases and wire backend services into real web & mobile products.
 
 [![Email](https://img.shields.io/badge/Email-namnm309%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:namnm309@gmail.com)
-![Focus](https://img.shields.io/badge/Focus-.NET%20Backend-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 </div>
 
