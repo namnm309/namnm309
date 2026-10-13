@@ -20,17 +20,29 @@ I build RESTful APIs, design relational databases, and integrate backend service
 
 ## Tech Stack
 
-**Languages:** `C#` `Python` `TypeScript` `JavaScript` `Java` `SQL`
+**Languages**
 
-**Backend:** `ASP.NET Core Web API` `Entity Framework Core` `ASP.NET Core MVC` `FastAPI` `Spring Boot` `Hangfire`
+![C#](https://img.shields.io/badge/C%23-30363D?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-30363D?style=flat-square&logo=openjdk&logoColor=white) `SQL`
 
-**Frontend & Mobile:** `React` `Next.js` `React Native` `Expo` `HTML` `CSS` `Tailwind CSS`
+**Backend**
 
-**Databases & Storage:** `PostgreSQL` `SQL Server` `Supabase` `pgvector` `Redis` `Azure Blob Storage`
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-30363D?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF%20Core-30363D?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-30363D?style=flat-square&logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-30363D?style=flat-square&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-30363D?style=flat-square&logo=springboot&logoColor=white) `Hangfire`
 
-**Integrations & Tools:** `REST APIs` `JWT` `Clerk` `SignalR` `Webhooks` `VNPay` `SePay` `GHN` `Git` `GitHub Actions` `Docker` `Swagger / OpenAPI`
+**Frontend & Mobile**
 
-**AI:** `RAG` `LLM Integration` `Embeddings` `Vector Search` `Ollama`
+![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-30363D?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-30363D?style=flat-square&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-30363D?style=flat-square&logo=expo&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-30363D?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-30363D?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-30363D?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases & Storage**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-30363D?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-30363D?style=flat-square&logo=supabase&logoColor=white) `pgvector` ![Redis](https://img.shields.io/badge/Redis-30363D?style=flat-square&logo=redis&logoColor=white) ![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-30363D?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Integrations & Tools**
+
+`REST APIs` ![JWT](https://img.shields.io/badge/JWT-30363D?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-30363D?style=flat-square&logo=clerk&logoColor=white) `SignalR` `Webhooks` `VNPay` `SePay` `GHN` ![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-30363D?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-30363D?style=flat-square&logo=docker&logoColor=white) ![Swagger / OpenAPI](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-30363D?style=flat-square&logo=swagger&logoColor=white)
+
+**AI**
+
+`RAG` `LLM Integration` `Embeddings` `Vector Search` ![Ollama](https://img.shields.io/badge/Ollama-30363D?style=flat-square&logo=ollama&logoColor=white)
 
 These technologies are drawn from my coursework, internship, and public project repositories. My main specialization is ASP.NET Core backend development.
 
