@@ -1,131 +1,154 @@
-# Nam Nguyen
+<div align="center">
 
-**Fresher .NET Backend Developer** | ASP.NET Core | PostgreSQL | React / Next.js
+# Hi, I'm Nam Nguyen
 
-I build RESTful APIs, design relational databases, and integrate backend services with web and mobile applications. My primary focus is .NET backend development, with additional experience in React, Python, and AI integrations.
+**.NET Backend Developer (Fresher)** · ASP.NET Core · PostgreSQL · AI/RAG Integration
 
-## Contents
+I build REST APIs, design relational databases and wire backend services into real web & mobile products.
 
-- [About](#about)
-- [Tech Stack](#tech-stack)
-- [Featured Projects](#featured-projects)
-- [Other Projects](#other-projects)
-- [Current Focus](#current-focus)
+[![Email](https://img.shields.io/badge/Email-namnm309%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:namnm309@gmail.com)
+![Focus](https://img.shields.io/badge/Focus-.NET%20Backend-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Open to work](https://img.shields.io/badge/Open%20to-Fresher%20%2F%20Junior%20roles-2EA44F?style=flat-square)
 
-## About
+</div>
 
-- Software Engineering, FPT University (2022–2026).
-- Backend Developer Intern at FPT Software (May–Aug 2025), working on a cinema ticket booking system.
-- Interested in API design, database modeling, asynchronous processing, and building applications across the stack.
+---
 
-## Tech Stack
+## About me
 
-**Languages**
+- Software Engineering student at **FPT University** (final semesters).
+- **FPT Software internship (OJT)** — team project: cinema ticket booking platform.
+- **Team lead** for my capstone project (IQGS) — task breakdown, Git workflow, code review, integrating BE / FE / AI service.
+- Comfortable with **layered / Clean Architecture** (Domain · Application · Infrastructure · API), EF Core migrations, JWT auth and third-party integrations (VNPay, SePay, GHN, Clerk).
+- Ship what I build: CI with **GitHub Actions**, deploys to **Azure App Service**, Docker for local services.
 
-![C#](https://img.shields.io/badge/C%23-30363D?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-30363D?style=flat-square&logo=openjdk&logoColor=white) `SQL`
+---
 
-**Backend**
+## Tech stack
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-30363D?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF%20Core-30363D?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-30363D?style=flat-square&logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-30363D?style=flat-square&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-30363D?style=flat-square&logo=springboot&logoColor=white) `Hangfire`
+**Backend & databases**
 
-**Frontend & Mobile**
+[![Backend](https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,supabase,python,fastapi,java,spring&perline=9)](https://skillicons.dev)
 
-![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-30363D?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-30363D?style=flat-square&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-30363D?style=flat-square&logo=expo&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-30363D?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-30363D?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-30363D?style=flat-square&logo=tailwindcss&logoColor=white)
+**Frontend & mobile**
 
-**Databases & Storage**
+[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=9)](https://skillicons.dev)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-30363D?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-30363D?style=flat-square&logo=supabase&logoColor=white) `pgvector` ![Redis](https://img.shields.io/badge/Redis-30363D?style=flat-square&logo=redis&logoColor=white) ![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-30363D?style=flat-square&logo=microsoftazure&logoColor=white)
+**DevOps & tools**
 
-**Integrations & Tools**
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,azure,vercel,postman,vscode,visualstudio&perline=9)](https://skillicons.dev)
 
-`REST APIs` ![JWT](https://img.shields.io/badge/JWT-30363D?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-30363D?style=flat-square&logo=clerk&logoColor=white) `SignalR` `Webhooks` `VNPay` `SePay` `GHN` ![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-30363D?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-30363D?style=flat-square&logo=docker&logoColor=white) ![Swagger / OpenAPI](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-30363D?style=flat-square&logo=swagger&logoColor=white)
+| Area | Technologies |
+| --- | --- |
+| **Backend (main)** | C#, **ASP.NET Core Web API** (.NET 8), ASP.NET Core MVC / Razor, **Entity Framework Core**, LINQ, AutoMapper, FluentValidation, Serilog |
+| **Database & cache** | **PostgreSQL**, SQL Server, **pgvector**, Redis, Supabase |
+| **Auth & realtime** | JWT, Google OAuth, Clerk (webhooks via Svix), **SignalR** |
+| **Background & files** | **Hangfire**, Azure Blob Storage, Cloudinary, MailKit, PDF/DOCX parsing |
+| **Payments & 3rd-party** | VNPay, MoMo, SePay webhooks, GHN shipping API |
+| **Testing** | xUnit, Moq, Testcontainers (PostgreSQL integration tests) |
+| **AI** | Python, **FastAPI**, RAG, embeddings, vector search, Ollama, ChromaDB |
+| **Frontend & mobile** | TypeScript, React, **Next.js**, Tailwind CSS, shadcn/ui, **React Native (Expo)** |
+| **Also used** | Java, Spring Boot (Spring Security, JPA), JSP/Servlet |
 
-**AI**
+---
 
-`RAG` `LLM Integration` `Embeddings` `Vector Search` ![Ollama](https://img.shields.io/badge/Ollama-30363D?style=flat-square&logo=ollama&logoColor=white)
+## Featured projects
 
-These technologies are drawn from my coursework, internship, and public project repositories. My main specialization is ASP.NET Core backend development.
+### IQGS — AI-Powered Interview Question Generation System · *Capstone (Team Lead)*
 
-## Featured Projects
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-5C2D91?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-### 1. IQGS - AI-Powered Interview Question Generation
+Dual-sided SaaS for recruiters and job seekers: upload JDs / CVs, generate interview plans and question sets grounded in a knowledge base via RAG, candidate practice & coaching, subscription plans.
 
-Developed an ASP.NET Core backend and a Python FastAPI RAG/LLM service for interview planning and question generation. Worked on PostgreSQL database design, document retrieval with pgvector, and Hangfire background jobs.
+- ASP.NET Core Web API in **Clean Architecture**, ~45 controllers split by role (Admin / HR / Candidate / Studio).
+- **PostgreSQL + pgvector**, **Hangfire** background jobs for long-running AI generation, Azure Blob for documents, SePay subscription payments.
+- Separate **Python FastAPI RAG service** (ingest → chunk → embed → retrieve by scope → generate), called by the .NET backend through an internal API key.
+- Unit tests (xUnit, Moq) and integration tests with **Testcontainers**; CI/CD deploy workflow.
 
-**Tech:** `C#` `ASP.NET Core` `EF Core` `PostgreSQL` `Python` `FastAPI` `Hangfire` `pgvector` `Ollama` `Azure Blob Storage`
+[Backend](https://github.com/hienn12454/IQGS-SEP490-Backend) · [RAG / LLM Service](https://github.com/namnm309/IQGS-SEP490-RAG-LLM-SERVICE) · [RAG prototype](https://github.com/namnm309/RAG_IQGS)
 
-**Repositories:** [Backend](https://github.com/namnm309/IQGS-SEP490-Backend) | [RAG / LLM Service](https://github.com/namnm309/IQGS-SEP490-RAG-LLM-SERVICE)
+### Finmate — Personal Finance Platform · *Backend + Web + Mobile*
 
-### 2. Finmate - Personal Finance Management
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-A personal finance platform with REST APIs for transactions, savings, and reports. Includes database transaction handling, JWT authentication, SePay payment webhooks, a Next.js web dashboard, and a React Native mobile app.
+Track income/expenses, money sources, savings books and goals; community feed with follows; premium plans paid through SePay.
 
-**Tech:** `C#` `ASP.NET Core` `EF Core` `PostgreSQL` `Clerk` `SePay` `React` `Next.js` `TypeScript` `React Native` `Expo`
+- 3-layer .NET API (Controller · BLL · DAL), EF Core migrations, **Clerk JWT** auth + Clerk webhooks.
+- **SignalR** hub for real-time transaction updates, **SePay webhook** for premium orders.
+- Deployed on **Azure App Service** via GitHub Actions; Next.js web dashboard and Expo mobile app.
 
-**Repositories:** [Backend](https://github.com/namnm309/Finmate-BE) | [Web](https://github.com/namnm309/FinmateWeb) | [Mobile](https://github.com/namnm309/Finmate-Mobile)
+[Backend](https://github.com/namnm309/Finmate-BE) ([Swagger](https://finmatecontroller20260116165929-dvckfkfvgqendpbk.eastasia-01.azurewebsites.net/swagger/index.html)) · [Web](https://github.com/namnm309/FinmateWeb) ([Live](https://finmate-web-five.vercel.app)) · [Mobile](https://github.com/namnm309/Finmate-Mobile)
 
-### 3. Cinema Ticket Booking - FPT Software Internship
+### Cinema Ticket Booking — *FPT Software Internship (team)*
 
-Team project covering movie and showtime management, seat booking, and payments. Contributed to backend features, MVC/Razor pages, Git branch integration, and merge conflict resolution.
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-**Tech:** `C#` `ASP.NET Core Web API` `ASP.NET Core MVC` `EF Core` `PostgreSQL` `SignalR` `Redis` `JWT` `VNPay`
+Movies, showtimes, cinema rooms, real-time seat selection, vouchers, concessions, points and payments.
 
-**Repository:** [OJT_SUMMER25_MOVIEWEBSITE](https://github.com/namnm309/OJT_SUMMER25_MOVIEWEBSITE)
+- Real-time seat locking with **SignalR** + background service that releases expired seats.
+- Redis caching, Cloudinary image upload, MVC/Razor admin areas; xUnit + Moq tests.
+- Contributed backend features, Razor pages, branch merging and integration debugging.
 
-### 4. TechStore - E-Commerce Platform
+[Repository](https://github.com/namnm309/OJT_SUMMER25_MOVIEWEBSITE)
 
-Backend and mobile application for products, carts, orders, vouchers, and inventory. Includes database transactions, payment integration, and shipping services.
+### TechStore — E-commerce Backend & Mobile App
 
-**Tech:** `C#` `ASP.NET Core` `EF Core` `GHN` `VNPay` `React Native` `TypeScript`
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![VNPay](https://img.shields.io/badge/VNPay-005BAA?style=flat-square)
+![GHN](https://img.shields.io/badge/GHN-F26522?style=flat-square)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Repositories:** [Backend](https://github.com/namnm309/PRM392-Mobile-BE) | [Mobile](https://github.com/namnm309/PRM392-Mobile)
+Products & variants, cart, orders, vouchers, membership, wishlist, reviews, support chat.
 
-### 5. EV Station Management
+- **VNPay** payment, **GHN** shipping + webhook, Clerk auth; deployed to Azure with GitHub Actions.
 
-Backend system for managing EV charging stations, reservations, charging sessions, payments, and related operations.
+[Backend](https://github.com/namnm309/PRM392-Mobile-BE) ([Swagger](https://techstorebe-fzaza5cvgbhah6fg.eastasia-01.azurewebsites.net/swagger/index.html)) · [Mobile](https://github.com/namnm309/PRM392-Mobile)
 
-**Tech:** `C#` `ASP.NET Core Web API` `EF Core` `JWT` `VNPay`
+---
 
-**Repository:** [EV_Station_Management](https://github.com/namnm309/EV_Station_Management)
+## Other projects
 
-### 6. Child Growth Tracking System
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [EV Charging Station Management](https://github.com/namnm309/EV_Station_Management) | Stations, charging spots & sessions, reservations, QR, maintenance, subscriptions, VNPay/MoMo | ASP.NET Core, EF Core, PostgreSQL, SignalR |
+| [FPTU Lab Events](https://github.com/namnm309/FPTU_Lab_Events) | Lab, room, equipment & event booking with notifications | ASP.NET Core, Clean Architecture, Redis, GitHub Actions |
+| [Child Growth Tracking](https://github.com/namnm309/Child_Growth_Tracking_System_BE) | Growth records, BMI vs WHO data, doctor consultations, paid packages | ASP.NET Core, PostgreSQL, Redis, VNPay, Docker |
+| [Child Vaccination Scheduling](https://github.com/namnm309/SWP391O-Online-System-for-Child-Vaccination-Schedule-Management) | Vaccination booking for parents, staff & admin | Spring Boot, Spring Security, PostgreSQL, Next.js |
+| [Saga Pattern Demo](https://github.com/namnm309/Saga_Pattern_Orchestration_Demo) | Orchestrated multi-step workflow with compensation on failure | .NET 8, Minimal API, Next.js |
+| [Microservice Web](https://github.com/namnm309/Microservice-Web) | API gateway + user / movie / booking services (learning project) | ASP.NET Core, PostgreSQL |
+| [Ninja Street 3D – web](https://github.com/namnm309/NinjaStreet3D) | Companion site: login, score submission, leaderboard | Next.js, TypeScript |
 
-Backend APIs for child growth records, BMI tracking, consultations, user accounts, and payments.
+<details>
+<summary>Earlier coursework (Java)</summary>
 
-**Tech:** `C#` `ASP.NET Core Web API` `EF Core` `JWT` `VNPay`
+Hotel / Tour / Event management apps, MVC architecture with JSP/Servlet, Spring Boot practice and JUnit test cases.
 
-**Repository:** [Child_Growth_Tracking_System_BE](https://github.com/namnm309/Child_Growth_Tracking_System_BE)
+</details>
 
-## Other Projects
+---
 
-### Child Vaccination Management
+## Currently
 
-Vaccination scheduling and management with a Spring Boot backend and React/Next.js web interfaces.
+- Deepening backend fundamentals: database design & transactions, API reliability, testing.
+- Looking for a **Fresher / Junior .NET Backend** position.
 
-**Tech:** `Java` `Spring Boot` `Next.js` `React` `TypeScript`
+<div align="center">
 
-**Repository:** [Online System for Child Vaccination Schedule Management](https://github.com/namnm309/SWP391O-Online-System-for-Child-Vaccination-Schedule-Management)
+**Backend first — comfortable collaborating across the stack.**
 
-### Saga Pattern Orchestration Demo
-
-Small .NET and Next.js demo showing multi-step workflows and compensating actions when a step fails.
-
-**Tech:** `C#` `ASP.NET Core` `Next.js` `React` `TypeScript`
-
-**Repository:** [Saga_Pattern_Orchestration_Demo](https://github.com/namnm309/Saga_Pattern_Orchestration_Demo)
-
-### FPTU Lab Events
-
-Backend services for managing laboratory events and related resources.
-
-**Tech:** `C#` `ASP.NET Core Web API` `EF Core`
-
-**Repository:** [FPTU_Lab_Events](https://github.com/namnm309/FPTU_Lab_Events)
-
-## Current Focus
-
-- Strengthening ASP.NET Core backend design, API reliability, and database consistency.
-- Building practical applications with React / Next.js alongside .NET APIs.
-- Improving background processing, cloud deployment, and AI service integration.
-
-[View all public repositories](https://github.com/namnm309?tab=repositories)
+</div>
