@@ -12,17 +12,6 @@ I build REST APIs, design relational databases and wire backend services into re
 
 </div>
 
----
-
-## About me
-
-- Software Engineering student at **FPT University** (final semesters).
-- **FPT Software internship (OJT)** — team project: cinema ticket booking platform.
-- **Team lead** for my capstone project (IQGS) — Jira/Scrum task breakdown, Git workflow, code review, integrating BE / FE / AI service.
-- Comfortable with **layered / Clean Architecture**, EF Core migrations, JWT / OAuth, background jobs, real-time with SignalR and payment / shipping integrations.
-- Ship what I build: CI with **GitHub Actions**, deploys to **Azure App Service**, Docker for local services.
-
----
 
 ## Tech stack
 
