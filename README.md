@@ -8,10 +8,11 @@ I build REST APIs, design relational databases and wire backend services into re
 
 [![Email](https://img.shields.io/badge/Email-namnm309%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:namnm309@gmail.com)
 ![Focus](https://img.shields.io/badge/Focus-.NET%20Backend-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Open to work](https://img.shields.io/badge/Open%20to-Fresher%20%2F%20Junior%20roles-2EA44F?style=flat-square)
+![Open to work](https://img.shields.io/badge/Open%20to-Fresher%20roles-2EA44F?style=flat-square)
 
 </div>
 
+---
 
 ## Tech stack
 
@@ -26,6 +27,16 @@ I build REST APIs, design relational databases and wire backend services into re
 **DevOps & tools**
 
 [![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,azure,vercel,postman,vscode,visualstudio&perline=9)](https://skillicons.dev)
+
+**AI-assisted development**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-FF4F3D?style=for-the-badge)
+
+I use AI coding agents daily to scaffold features, write tests, refactor and review code — while keeping design decisions, data modeling and final review in my own hands.
 
 | Area | Technologies |
 | --- | --- |
@@ -188,7 +199,7 @@ Hotel / Tour / Event management apps, MVC architecture with JSP/Servlet, Spring 
 ## Currently
 
 - Deepening backend fundamentals: database design & transactions, API reliability, testing.
-- Looking for a **Fresher / Junior .NET Backend** position.
+- Looking for a **Fresher .NET Backend** position.
 
 <div align="center">
 
